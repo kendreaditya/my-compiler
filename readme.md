@@ -1,4 +1,4 @@
-# A Compiler
+# A Compiler 👾
 
 This project is a basic compiler for a simple programming language, implemented in Python. The compiler consists of three main components: a Lexer, a Parser, and a Node class for constructing an Abstract Syntax Tree (AST). The code implements concepts such as lexical analysis, syntax analysis, and AST construction, fundamental concepts in compiler construction and programming languages.
 
